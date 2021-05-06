@@ -1,7 +1,3 @@
-//Jeferson Gonçalves Noronha Soriano - 471110
-//Emanuel Moraes Rodrigues - 433706
-
-
 #ifndef MATRIZ_H
 #define MATRIZ_H
 
